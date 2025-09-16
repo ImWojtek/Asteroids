@@ -1,0 +1,7 @@
+- add a scoring system
+- add a timer
+- implement lives and respawns
+- add acceleration to player movement
+- add background
+- create new weapons
+- upgrade system
